@@ -12,11 +12,8 @@ Run DOSBox x.xxxx Options.bat file
 
 Add these lines to bottom of the opened file
 
-<code>mount c D:\Volfied</code>
-
-<code>C:</code>
-
-<code>cls</code>
-
-<code>xonix</code>
+<code>mount c D:\Volfied
+C:
+cls
+xonix</code>
 
